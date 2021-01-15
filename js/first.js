@@ -1,3 +1,3 @@
-function notify(){
-    alert('Test!');
+function notify(arg){
+    alert(arg);
 }
