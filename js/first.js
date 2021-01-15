@@ -1,0 +1,3 @@
+function notify(){
+    alert('Test!');
+}
